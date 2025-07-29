@@ -1,4 +1,4 @@
-# 🎙️ Voice Emotion Recognition AI
+# Voice Emotion Recognition AI
 
 A machine learning web app that detects **human emotions** from voice using the **RAVDESS dataset**. Built with Python, audio processing, and Gradio for an interactive user interface.
 
@@ -20,16 +20,15 @@ Install required Python packages:
 
 ```bash
 pip install librosa soundfile numpy pandas scikit-learn gradio
- How to Run
+## **How to Run**
 
 Clone the repository:
-bash
-git clone https://github.com/YourUsername/Voice-Emotion-Recognition.git
+```bash
+git clone https://github.com/Raniakhan1/Voice-Emotion-Recognition.git
 cd Voice-Emotion-Recognition
 Launch the voice-emotion-recognation.py:
 
-bash
-
+```bash
 voice-emotion-recognation.py
 You’ll see a Gradio web interface open in your browser to upload .wav files and get emotion predictions.
 
