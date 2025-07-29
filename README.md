@@ -35,7 +35,6 @@ pip install librosa soundfile scikit-learn numpy pandas gradio
 2. Launch the Gradio 
 3. A web interface will open. Upload a .wav file to detect emotion.
 
----
 
 **Submitted as part of the TechnikNest AI/ML Mini Project Series** 
 
