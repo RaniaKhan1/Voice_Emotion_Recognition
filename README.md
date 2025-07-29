@@ -30,10 +30,8 @@ pip install librosa soundfile scikit-learn numpy pandas gradio
 
    ```bash
    git clone https://github.com/Raniakhan1/Voice-Emotion-Recognition.git
-cd Voice-Emotion-Recognition
 
    ```
-
 2. Launch the Gradio 
 3. A web interface will open. Upload a .wav file to detect emotion.
 
